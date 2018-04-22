@@ -1,0 +1,13 @@
+@font-face{
+	font-family: laLetra;
+	src:url(laLetra.ttf);
+}
+@font-face {
+    font-family: "Letra";
+    font-style: normal;
+    font-weight: normal;
+    src: url("trabajoFoe/estilo/laLetra.ttf");
+}
+.letraMolona{
+	font-family: laLetra;
+}
