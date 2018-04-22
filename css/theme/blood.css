@@ -17,7 +17,27 @@ body {
   background: #222;
   background-color: #222; }
 
+table{
+    display: table;
+    align-content: top;
+    border-spacing: 0px;
+    border-color: red;
+}
+.fila {
+  display: flex;
+  flex-direction: row;
+  height: 420px;
+  width: 800px;
+  justify-content: space-around;
+}
 
+.boton{
+  height: 500;
+  width: 200;
+}
+.justificado {
+  align-content: justify;
+}
 .reveal {
   font-family: Ubuntu, "sans-serif";
   font-size: 40px;
