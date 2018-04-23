@@ -1553,3 +1553,5 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.reveal section img { background:none; border:none; box-shadow:none; }

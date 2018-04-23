@@ -262,9 +262,12 @@ table{
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #eee;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  background: none;
+  /**rgba(255, 255, 255, 0.12);*/
+  border: none;
+  /**4px solid #eee;*/
+  box-shadow: none;
+/**0 0 10px rgba(0, 0, 0, 0.15);*/ }
 
 .reveal section img.plain {
   border: 0;
@@ -319,3 +322,5 @@ table{
   vertical-align: baseline; }
 
 .flecha { color:red; }
+
+.reveal section img { background:none; border:none; box-shadow:none; }
