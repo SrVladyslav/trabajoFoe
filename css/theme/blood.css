@@ -262,6 +262,7 @@ table{
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
+<<<<<<< HEAD
   background: none;
   /**rgba(255, 255, 255, 0.12);*/
   border: none;
@@ -269,6 +270,16 @@ table{
   box-shadow: none;
 /**0 0 10px rgba(0, 0, 0, 0.15);*/ }
 
+=======
+  /**background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #eee;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+*/
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+>>>>>>> 01caf987d4d1bc610764b8602877c5052a947330
 .reveal section img.plain {
   border: 0;
   box-shadow: none; }
