@@ -15,6 +15,7 @@
  *********************************************/
 body {
   background: #222;
+  /**#222*/
   background-color: #222; }
 
 table{
@@ -29,6 +30,15 @@ table{
   height: 420px;
   width: 800px;
   justify-content: space-around;
+}
+
+.anchoTop{
+	width: 400px;
+	height: 400px;
+}
+.anchoTop1{
+	width: 500px;
+	height: 400px;
 }
 
 .boton{
